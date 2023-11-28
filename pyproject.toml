@@ -14,8 +14,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/joe-philip/django_rest_token_expiry.git"
-Issues = "https://github.com/joe-philip/django_rest_token_expiry.git/issues"
+Homepage = "https://github.com/joe-philip/django_rest_exception_handler.git"
+Issues = "https://github.com/joe-philip/django_rest_exception_handler.git/issues"
 
 [build-system]
 requires = ["djangorestframework>=3.14.0", "toml"]
