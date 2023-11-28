@@ -45,7 +45,7 @@ from rest_framework.request import Request
 from .serializers import YourSerializer
 
 class YourView(APIView):
-    def get(self, request: Request) -> Response:
+    def post(self, request: Request) -> Response:
         serializer = YourSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         serializer.save()
