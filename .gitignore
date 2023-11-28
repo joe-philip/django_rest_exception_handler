@@ -5,3 +5,6 @@
 # *.[oa]
 # *~
 .pypirc
+build
+dist
+*.egg-info
