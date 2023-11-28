@@ -1,6 +1,6 @@
 [project]
 name = "django_rest_exception_handler"
-version = "0.0.3"
+version = "1.0"
 authors = [
   { name="Joe Philip", email="joe.philip@hotmail.co.in" },
 ]

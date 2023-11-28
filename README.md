@@ -6,7 +6,7 @@ Installation
 You can install the package via pip:
 
 ```bash
-pip install your-package-name
+pip install django-rest-exception-handler
 ```
 
 ## Usage
