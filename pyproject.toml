@@ -1,10 +1,10 @@
 [project]
 name = "django_rest_exception_handler"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Joe Philip", email="joe.philip@hotmail.co.in" },
 ]
-description = "Django REST Token Expiry is a Python package designed to add token expiration functionality to Django REST Framework's default token authentication system. This package allows developers to set expiry durations for authentication tokens, enhancing security by automatically invalidating tokens after a specified period."
+description = "The Django REST Framework Exception Handler is a Python package designed to streamline exception handling within Django REST Framework applications. It ensures a consistent format for error responses by structuring them in a predefined JSON format"
 readme = "README.md"
 requires-python = ">=3.8.16"
 classifiers = [
