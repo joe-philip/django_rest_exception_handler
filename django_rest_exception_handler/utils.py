@@ -11,4 +11,4 @@ def fail(error: Any) -> dict:
     Returns:
         A dictionary with status, message, and error keys.
     """
-    return {'status': False, 'message': 'fail', 'errror': error}
+    return {'status': False, 'message': 'fail', 'error': error}
